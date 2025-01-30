@@ -1,7 +1,7 @@
 <h1 align="left">Hi there👋! <h1>
 
 <h3
-<br>💻 I'm Harry - a Senior Software Engineer | Full-Stack<br>⏳ Proficient Front-end & Back-end<br>🚀 Always ready to collaborate for Dev Experiments<br>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking</h3>
+<br>💻 I'm a Senior Software Engineer | Full-Stack<br>⏳ Proficient Front-end & Back-end<br>🚀 Always ready to collaborate for Dev Experiments<br>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking</h3>
 
 ###
 
