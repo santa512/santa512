@@ -12,73 +12,161 @@
 
 ###
 
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-</div>
-
-###
-
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="30" alt="amazondynamodb logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-</div>
+<br>
+<h1 style="border-bottom:none;">Skills</h1>
+<br>
+<table>  
+  <tr> 
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
+      <br>Python  
+    </td> 
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=js" alt="Javascript" />  
+      <br>Javascript  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />  
+      <br>TypeScript  
+    </td>     
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=php" alt="PHP" />  
+      <br>PHP  
+    </td>      
+    <td align="center" width="90" align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="icon" alt="C++" />  
+      <br>C++  
+    </td> 
+    <td align="center" width="90">  
+    <img  width="35" height="35" src="https://skillicons.dev/icons?i=go" alt="Go" />  
+      <br>Go  
+    </td>  
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />  
+      <br>Java  
+    </td> 
+  </tr>  
+  <tr>  
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=react" alt="icon" alt="React" />  
+      <br>React  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=next" alt="icon" alt="Next" />  
+      <br>Next  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=angular" alt="icon" alt="Angular" />  
+      <br>Angular  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=vue" alt="icon" alt="Vue" />  
+      <br>Vue  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nuxt" alt="icon" alt="Bootstrap" />  
+      <br>Nuxt  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=electron" alt="icon" alt="Threejs" />  
+      <br>Electron  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
+      <br>Tailwind  
+    </td>
+  </tr>
+  <tr>  
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
+      <br>Laravel  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
+      <br>Node.js  
+    </td>   
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
+      <br>Express.js
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="icon" alt="Nestjs" />  
+      <br>Nest.js  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
+      <br>Django  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=flask" alt="icon" alt="Flask" />  
+      <br>Flask  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="WordPress" />  
+      <br>FastAPI  
+    </td>
+  </tr>
+  <tr>  
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=mysql" alt="icon" alt="MySql" />  
+      <br>MySql  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=postgresql" alt="icon" alt="PostgreSQL" />  
+      <br>Postgres  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="icon" alt="MongoDB" />  
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=elasticsearch" alt="icon" alt="Git" />  
+      <br>Elastic
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=aws" alt="icon" alt="AWS" />  
+      <br>AWS  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=azure" alt="icon" alt="Nginx" />  
+      <br>Azure  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=gcp" alt="icon" alt="Docker" />  
+      <br>GCP  
+    </td>
+  </tr>
+  <tr>  
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="icon" alt="Docker" />  
+      <br>Docker  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=kubernetes" alt="icon" alt="Kubernetes" />  
+      <br>Kubernetes  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=git" alt="icon" alt="Git" />  
+      <br>Git  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://cdn.simpleicons.org/jira/0052CC" alt="icon" alt="Jira" />  
+      <br>Jira  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=firebase" alt="icon" alt="Firebase" />  
+      <br>Firebase  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=rabbitmq" alt="icon" alt="RabbitMQ" />  
+      <br>RabbitMQ  
+    </td>
+    <td align="center" width="90">  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=kafka" alt="icon" alt="Kafka" />  
+      <br>Kafka  
+    </td>
+  </tr>
+</table>  
 
 ###
 
