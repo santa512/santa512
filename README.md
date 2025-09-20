@@ -1,4 +1,5 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+
 <h1> 
   About Me
   <a href="#--about-me--">
@@ -172,35 +173,35 @@
       <br>Kafka  
     </td>
   </tr>
-</table>  
+</table>
 
 ###
 
-<h3 align="left">❤️ Let's get connected:</h3>
-
-###
-
-<img align="right" height="200" src="https://camo.githubusercontent.com/6cff7f005ad15553427ff541a20c2c03cbf220c75b576972e551342fcb662cf0/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64727930376979766f2f696d6167652f75706c6f61642f76313733353336363839302f636f64696e675f7574727878612e676966"  />
+<h2 align="left">❤️ Let's get connected:</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <a href="https://discord.com/users/checkmate394"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="mailto:softcoder@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://t.me/ddaa0055"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
 </div>
+
+###
+
+###
+
+<h2>Profile Views</h2>
+
+**Counting of visitors to this page in this section started from Septempber 19, 2025** 👀
+
+![](https://count.getloli.com/@:santa512?theme=booru-lewd)
 
 ###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Santa512/Santa512/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Santa512/count.svg?"  />
-</div>
 
 ###
 
