@@ -1,28 +1,43 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+<a href="#">
+  <img 
+    alt="React" 
+    width="100%" 
+    style="padding-right:10px;" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" 
+  />
+</a><br>
 
-<h1> 
+<h1 align="center"> 
   About Me
   <a href="#--about-me--">
-    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width="35" height="35">
   </a>
 </h1>
 
-<h3
-<br>💻 I'm a Senior Software Engineer | Full-Stack<br>⏳ Proficient Front-end & Back-end<br>🚀 Always ready to collaborate for Dev Experiments<br>🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking</h3>
+<h3 align="center">
+💻 I'm a Senior Software Engineer | Full-Stack<br>
+⏳ Proficient Front-end & Back-end<br>
+🚀 Always ready to collaborate for Dev Experiments<br>
+🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>
+⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
+</h3>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santa512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santa512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santa512&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santa512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
 
 <br>
-<h1 style="border-bottom:none;">Skills</h1>
+<h1 align="center" style="border-bottom:none;">Skills</h1>
 <br>
-<table>  
+
+<div align="center">
+  
+  <table>  
   <tr> 
     <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
@@ -175,34 +190,43 @@
   </tr>
 </table>
 
-###
-
-<h2 align="left">❤️ Let's get connected:</h2>
-
-###
-
-<div align="left">
-  <a href="https://discord.com/users/checkmate394"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
-  <a href="mailto:softcoder@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://t.me/ddaa0055"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
 </div>
 
 ###
 
+<h2 align="center">❤️ Let's get connected:</h2>
+
+<div align="center">
+  <a href="https://discord.com/users/checkmate394"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="mailto:softcoder@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://t.me/ddaa0055"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" /></a>
+</div>
+
 ###
 
-<h2>Profile Views</h2>
+<h2 align="center">Profile Views</h2>
 
-**Counting of visitors to this page in this section started from Septempber 19, 2025** 👀
+<p align="center">
+  **Counting of visitors to this page in this section started from Septempber 19, 2025** 👀
+</p>
 
-![](https://count.getloli.com/@:santa512?theme=booru-lewd)
-
-###
+<p align="center">
+  <img src="https://count.getloli.com/@santa512?name=santa512&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+</p>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Santa512/Santa512/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Santa512/Santa512/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" /></a>
+<a href="#">
+  <img 
+    alt="Finish" 
+    width="100%" 
+    style="padding-right:10px;" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" 
+  />
+</a>
