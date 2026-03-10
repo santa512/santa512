@@ -24,9 +24,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santa512&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
 ###
 
@@ -89,8 +86,8 @@
       <br>Nuxt  
     </td>
     <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=electron" alt="icon" alt="Threejs" />  
-      <br>Electron  
+      <img  width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="icon" alt="dotnet" />  
+      <br>.NET  
     </td>
     <td align="center" width="90">  
       <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
@@ -197,7 +194,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/bigbang908"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="mailto:softcoder@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="mailto:softcoder210@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://t.me/boomleo"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" /></a>
 </div>
 
