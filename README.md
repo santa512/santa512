@@ -15,11 +15,11 @@
 </h1>
 
 <h3 align="center">
-💻 I'm a Senior Software Engineer | Full-Stack<br>
-⏳ Proficient Front-end & Back-end<br>
+💻 Senior Software Engineer | Solution Architect<br>
+🤖 Building AI-powered, cloud-native full-stack products<br>
 🚀 Always ready to collaborate for Dev Experiments<br>
 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>
-⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking
+⚡ Always open to meet new people and explore new opportunities 🫱🏻‍🫲🏻
 </h3>
 
 ###
@@ -33,155 +33,164 @@
 
 <div align="center">
   
-  <table>  
-  <tr> 
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />  
-      <br>Python  
-    </td> 
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=js" alt="Javascript" />  
-      <br>Javascript  
+<table>
+  <!-- Languages -->
+  <tr>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+      <br>TypeScript
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />  
-      <br>TypeScript  
-    </td>     
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=php" alt="PHP" />  
-      <br>PHP  
-    </td>      
-    <td align="center" width="90" align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="icon" alt="C++" />  
-      <br>C++  
-    </td> 
-    <td align="center" width="90">  
-    <img  width="35" height="35" src="https://skillicons.dev/icons?i=go" alt="Go" />  
-      <br>Go  
-    </td>  
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />  
-      <br>Java  
-    </td> 
-  </tr>  
-  <tr>  
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=react" alt="icon" alt="React" />  
-      <br>React  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />
+      <br>Python
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=next" alt="icon" alt="Next" />  
-      <br>Next  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+      <br>JavaScript
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=angular" alt="icon" alt="Angular" />  
-      <br>Angular  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=go" alt="Go" />
+      <br>Go
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=vue" alt="icon" alt="Vue" />  
-      <br>Vue  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />
+      <br>Java
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nuxt" alt="icon" alt="Bootstrap" />  
-      <br>Nuxt  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=cs" alt="C Sharp" />
+      <br>C#
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="icon" alt="dotnet" />  
-      <br>.NET  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="icon" alt="Tailwind" />  
-      <br>Tailwind  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="C Plus Plus" />
+      <br>C++
     </td>
   </tr>
-  <tr>  
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=laravel" alt="icon" alt="Laravel" />  
-      <br>Laravel  
+
+  <!-- Full-Stack -->
+  <tr>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=react" alt="React" />
+      <br>React
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" />  
-      <br>Node.js  
-    </td>   
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=express" alt="icon" alt="Express" />  
-      <br>Express.js
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+      <br>Next.js
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="icon" alt="Nestjs" />  
-      <br>Nest.js  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+      <br>Node.js
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=django" alt="icon" alt="Django" />  
-      <br>Django  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
+      <br>NestJS
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=flask" alt="icon" alt="Flask" />  
-      <br>Flask  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+      <br>FastAPI
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="icon" alt="WordPress" />  
-      <br>FastAPI  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" />
+      <br>.NET
+    </td>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+      <br>Tailwind
     </td>
   </tr>
-  <tr>  
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=mysql" alt="icon" alt="MySql" />  
-      <br>MySql  
+
+ <!-- AI Engineering / Vector Search -->
+<tr>
+  <td align="center" width="90">
+    <img width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python AI" />
+    <br>Python AI
+  </td>
+  <td align="center" width="90">
+    <img width="35" height="35" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+    <br>PyTorch
+  </td>
+  <td align="center" width="90">
+    <img width="35" height="35" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+    <br>TensorFlow
+  </td>
+  <td align="center" width="90">
+    <img width="35" height="35" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL and pgvector" />
+    <br>pgvector
+  </td>
+  <td align="center" width="90">
+    <img width="35" height="35" src="https://skillicons.dev/icons?i=redis" alt="Redis Vector Search" />
+    <br>Redis
+  </td>
+  <td align="center" width="90">
+    <img width="35" height="35" src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" />
+    <br>Elastic
+  </td>
+  <td align="center" width="90">
+    <img width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="AI APIs with FastAPI" />
+    <br>AI APIs
+  </td>
+</tr>
+
+  <!-- Cloud and Platform -->
+  <tr>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+      <br>AWS
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=postgresql" alt="icon" alt="PostgreSQL" />  
-      <br>Postgres  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" />
+      <br>Azure
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="icon" alt="MongoDB" />  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
+      <br>CI/CD
+    </td>
+  </tr>
+
+  <!-- Data and Observability -->
+  <tr>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=redis" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=elasticsearch" alt="icon" alt="Git" />  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" />
       <br>Elastic
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=aws" alt="icon" alt="AWS" />  
-      <br>AWS  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" />
+      <br>Kafka
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=azure" alt="icon" alt="Nginx" />  
-      <br>Azure  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" />
+      <br>Prometheus
     </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=gcp" alt="icon" alt="Docker" />  
-      <br>GCP  
-    </td>
-  </tr>
-  <tr>  
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="icon" alt="Docker" />  
-      <br>Docker  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=kubernetes" alt="icon" alt="Kubernetes" />  
-      <br>Kubernetes  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=git" alt="icon" alt="Git" />  
-      <br>Git  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://cdn.simpleicons.org/jira/0052CC" alt="icon" alt="Jira" />  
-      <br>Jira  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=firebase" alt="icon" alt="Firebase" />  
-      <br>Firebase  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=rabbitmq" alt="icon" alt="RabbitMQ" />  
-      <br>RabbitMQ  
-    </td>
-    <td align="center" width="90">  
-      <img  width="35" height="35" src="https://skillicons.dev/icons?i=kafka" alt="icon" alt="Kafka" />  
-      <br>Kafka  
+    <td align="center" width="90">
+      <img width="35" height="35" src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+      <br>Grafana
     </td>
   </tr>
 </table>
@@ -203,7 +212,7 @@
 <h2 align="center">Profile Views</h2>
 
 <p align="center">
-  <strong>Counting of visitors to this page in this section started from Septempber 19, 2025 </strong> 👀
+  <strong>Counting of visitors to this page in this section started from April 19, 2026 </strong> 👀
 </p>
 
 <p align="center">
