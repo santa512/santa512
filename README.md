@@ -1,237 +1,95 @@
-<a href="#">
-  <img 
-    alt="React" 
-    width="100%" 
-    style="padding-right:10px;" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" 
-  />
-</a><br>
+<!-- ============ HEADER ============ -->
+<p align="center">
+  <img width="100%" alt="Header" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2d00f7,25:8900f2,50:bc00dd,75:e500a4,100:f20089&text=Hey%20there,%20I'm%20santa512&fontSize=52&fontAlignY=38&desc=Senior%20Software%20Engineer%20·%20Solution%20Architect&descSize=18&descAlignY=58&reversal=true&section=header&animation=twinkling&fontColor=FFFFFF" />
+</p>
 
-<h1 align="center"> 
-  About Me
-  <a href="#--about-me--">
-    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width="35" height="35">
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=BC00DD&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+%F0%9F%A4%96;Cloud-native+full-stack+engineering+%E2%98%81%EF%B8%8F;Explore+%F0%9F%94%A5+and+Explode+%F0%9F%92%A3+with+knowledge;Always+up+for+a+dev+experiment+%F0%9F%9A%80" />
   </a>
-</h1>
+</p>
 
-<h3 align="center">
-💻 Senior Software Engineer | Solution Architect<br>
-🤖 Building AI-powered, cloud-native full-stack products<br>
-🚀 Always ready to collaborate for Dev Experiments<br>
-🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"<br>
-⚡ Always open to meet new people and explore new opportunities 🫱🏻‍🫲🏻
-</h3>
-
-###
-
-
-###
+<p align="center">
+  <a href="https://discord.com/users/bigbang908"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:softcoder210@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://t.me/boomleo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
 <br>
-<h1 align="center" style="border-bottom:none;">Skills</h1>
+
+<!-- ============ ABOUT ============ -->
+## <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width="28" height="28"> About Me
+
+```ts
+const me = {
+  role:      ["Senior Software Engineer", "Solution Architect"],
+  focus:     ["AI-powered products", "Cloud-native platforms", "Full-stack systems"],
+  languages: ["TypeScript", "Python", "Go", "Java", "C#", "C++"],
+  motto:     "Explore 🔥 and Explode 💣 with knowledge",
+  openTo:    ["Collaborations", "Dev experiments", "New opportunities 🫱🏻‍🫲🏻"],
+};
+```
+
+- 💻 I design and ship production systems end to end, from data layer to UI
+- 🤖 These days I'm deep in LLM apps, RAG pipelines and vector search
+- ☁️ Comfortable across AWS, Azure and GCP with Kubernetes and Terraform
+- ⚡ Always happy to meet new people. Ping me on any channel above
+
 <br>
 
-<div align="center">
-  
-<table>
-  <!-- Languages -->
+<!-- ============ TECH STACK ============ -->
+## 🛠️ Tech Stack
+
+<table align="center">
   <tr>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=go" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=java" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=cs" alt="C Sharp" />
-      <br>C#
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=cpp" alt="C Plus Plus" />
-      <br>C++
-    </td>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,python,go,java,cs,cpp&perline=7" alt="Languages" /></td>
   </tr>
-
-  <!-- Full-Stack -->
   <tr>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=react" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
-      <br>NestJS
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=dotnet" alt="Dotnet" />
-      <br>.NET
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-      <br>Tailwind
-    </td>
+    <td align="right"><b>Full-Stack</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,nestjs,fastapi,dotnet&perline=7" alt="Full-stack" /></td>
   </tr>
-
- <!-- AI Engineering / Vector Search -->
-<tr>
-  <td align="center" width="90">
-    <img width="35" height="35" src="https://skillicons.dev/icons?i=python" alt="Python AI" />
-    <br>Python AI
-  </td>
-  <td align="center" width="90">
-    <img width="35" height="35" src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
-    <br>PyTorch
-  </td>
-  <td align="center" width="90">
-    <img width="35" height="35" src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
-    <br>TensorFlow
-  </td>
-  <td align="center" width="90">
-    <img width="35" height="35" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL and pgvector" />
-    <br>pgvector
-  </td>
-  <td align="center" width="90">
-    <img width="35" height="35" src="https://skillicons.dev/icons?i=redis" alt="Redis Vector Search" />
-    <br>Redis
-  </td>
-  <td align="center" width="90">
-    <img width="35" height="35" src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" />
-    <br>Elastic
-  </td>
-  <td align="center" width="90">
-    <img width="35" height="35" src="https://skillicons.dev/icons?i=fastapi" alt="AI APIs with FastAPI" />
-    <br>AI APIs
-  </td>
-</tr>
-
-  <!-- Cloud and Platform -->
   <tr>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=aws" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=azure" alt="Microsoft Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
-      <br>Terraform
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />
-      <br>CI/CD
-    </td>
+    <td align="right"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&perline=7" alt="AI and ML" /></td>
   </tr>
-
-  <!-- Data and Observability -->
   <tr>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-      <br>Postgres
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=redis" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" />
-      <br>Elastic
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" />
-      <br>Kafka
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" />
-      <br>Prometheus
-    </td>
-    <td align="center" width="90">
-      <img width="35" height="35" src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
-      <br>Grafana
-    </td>
+    <td align="right"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch,kafka&perline=7" alt="Data" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions&perline=7" alt="Cloud and DevOps" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Observability</b></td>
+    <td><img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=7" alt="Observability" /></td>
   </tr>
 </table>
 
-</div>
+<p align="center">
+  <sub>Vector search with <b>pgvector</b>, <b>Redis</b> and <b>Elasticsearch</b> · AI APIs served with <b>FastAPI</b></sub>
+</p>
 
-###
+<br>
 
-<h2 align="center">❤️ Let's get connected:</h2>
-
-<div align="center">
-  <a href="https://discord.com/users/bigbang908"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="mailto:softcoder210@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://t.me/boomleo"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" /></a>
-</div>
-
-###
-
-<h2 align="center">Profile Views</h2>
+<!-- ============ STATS ============ -->
+## 📊 GitHub Stats
 
 <p align="center">
-  <strong>Counting of visitors to this page in this section started from April 19, 2026 </strong> 👀
+  <img height="170" src="https://streak-stats.demolab.com?user=santa512&theme=radical&hide_border=true&background=0D1117&ring=BC00DD&fire=F20089&currStreakLabel=BC00DD" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@santa512?name=santa512&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+  <img src="https://raw.githubusercontent.com/santa512/santa512/output/snake.svg" alt="Snake eating my contributions" />
 </p>
-
-<br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Santa512/Santa512/output/snake.svg" alt="Snake animation" />
+  <img src="https://count.getloli.com/@santa512?name=santa512&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor counter" /><br>
+  <sub>👀 visitors since April 19, 2026</sub>
 </p>
 
-###
-
-<a href="#">
-  <img 
-    alt="Finish" 
-    width="100%" 
-    style="padding-right:10px;" 
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2d00f7,11:6a00f4,22:8900f2,33:a100f2,44:b100e8,55:bc00dd,66:d100d1,77:db00b6,88:e500a4,99:f20089,100:f20089&section=footer" 
-  />
-</a>
+<!-- ============ FOOTER ============ -->
+<p align="center">
+  <img width="100%" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2d00f7,25:8900f2,50:bc00dd,75:e500a4,100:f20089&section=footer" />
+</p>
